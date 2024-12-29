@@ -6,4 +6,5 @@ sympy
 sounddevice
 opencv-python
 simpleaudio
+flask
 opencv-python-headless
